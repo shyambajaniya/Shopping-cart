@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Attitude is everything",
+      "price": 160,
+      "imgUrl": "/imgs/attitude.webp"
+    },
+    {
+      "id": 2,
+      "name": "How To Win Friends And Influence People",
+      "price": 168,
+      "imgUrl": "/imgs/daleCarnegie.webp"
+    },
+    {
+      "id": 3,
+      "name": "Deep Work : Rules For Focused Success In a Distracted World",
+      "price": 240,
+      "imgUrl": "/imgs/deepWork.webp"
+    },
+    {
+      "id": 4,
+      "name": "Think Straight: Change Your Thoughts, Change Your Life",
+      "price": 120,
+      "imgUrl": "/imgs/thinkStraight.webp"
+    }
+  ]
